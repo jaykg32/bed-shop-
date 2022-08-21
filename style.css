@@ -206,7 +206,7 @@ footer {
   }
     .testimonial-grid-cols{
     display: grid;
-    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(2,1fr);
   }
    .testimonial-box {
     grid-column: 1/2;
