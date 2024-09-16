@@ -28,7 +28,7 @@ FONT SIZE SYSTEM (px)
 /* GENERAL STYLES */
 body {
   font-family: "Inter", sans-serif;
-  border-bottom: 0.5rem solid #a61e4d ;
+  border-bottom: 0.4rem solid #a61e4d ;
 }
 .container {
   max-width: 60rem;
@@ -68,7 +68,7 @@ section {
   text-transform: uppercase;
   display: inline-block;
   font-weight: 500;
-  border-radius: 6.25rem;
+  border-radius: 6.50rem;
 }
 .btn:hover,
 .btn:active{
@@ -80,7 +80,7 @@ section {
 }
 .btn--small{
   font-size: 1rem;
-  padding: 0.5rem 0.75rem;
+  padding: 0.5rem 0.5rem;
 }
 
 h2 {
